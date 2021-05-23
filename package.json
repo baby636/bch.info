@@ -35,7 +35,7 @@
     "jquery": "^3.5.1"
   },
   "dependencies": {
-    "bchaddrjs": "^0.4.9",
+    "bchaddrjs": "^0.5.2",
     "gulp-html-i18n": "^0.16.0",
     "gulp-htmlmin": "^5.0.1",
     "moveto": "^1.8.2",
